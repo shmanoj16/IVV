@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="aachib" size="10.000000 15.539568" />
+    <ImageTarget name="aachif" size="10.000000 15.050847" />
+    <ImageTarget name="milkbikib" size="10.000000 6.825397" />
+    <ImageTarget name="100b" size="10.000000 4.614891" />
+    <ImageTarget name="100f" size="10.000000 4.476067" />
+    <ImageTarget name="2000nf" size="10.000000 3.960000" />
+    <ImageTarget name="2000nb" size="10.000000 3.957916" />
+    <ImageTarget name="milkbikif" size="10.000000 5.596591" />
+    <ImageTarget name="10f" size="10.000000 4.567590" />
+    <ImageTarget name="10b" size="10.000000 4.550000" />
+    <ImageTarget name="500f" size="10.000000 4.120055" />
+    <ImageTarget name="500b" size="10.000000 4.183814" />
+  </Tracking>
+</QCARConfig>

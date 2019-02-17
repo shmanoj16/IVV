@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Innovative Vision For Visionless</string>
+    <string name="sms_label">Latest SMS</string>
+    <string name="none">None</string>
+    <string name="speech_toggle_on">Tap here to start</string>
+    <string name="speech_toggle_off">tap here to stop</string>
+    <string name="start_speaking">Okay! I will read your messages out loud for you now.</string>
+    <string name="stop_speaking">Okay! I will stay silent now.</string>
+    <string name="c">contacts list</string>
+    <string name="ac">call</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="cl">contact list</string>
+    <string name="title_activity_call">CallActivity</string>
+    <string name="mac">Make a call</string>
+    <string name="stopped">stopped...</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="tracking_is_off">Tracking is Off</string>
+    <string name="tracking_is_on">Tracking is On</string>
+    <string name="user_needs_to_restart_tracking">Please restart tracking to change the time interval.</string>
+    <string name="reachability_error">Cannot reach the website that you have entered. Did you spell it correctly? Does your website use http or https?</string>
+    <string name="textfields_empty_or_spaces">Please fill in both fields. User names cannot have a space.</string>
+    <string name="google_play_services_unavailable">Please go into Settings > Apps > All and enable Google Play Services.</string>
+    <string name="user_name">Please Enter User Aadhar ID</string>
+    <string name="upload_website">upload website</string>
+    <string name="upload_frequency">Update Frequency for tracking</string>
+    <string name="one_minute">1 minute</string>
+    <string name="five_minutes">5 minutes</string>
+    <string name="fifteen_minutes">15 minutes</string>
+    <string name="default_upload_website">http://www.ivvtrack.16mb.com/gpstracker/updatelocation.php</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_splash">Splash</string>
+
+</resources>
